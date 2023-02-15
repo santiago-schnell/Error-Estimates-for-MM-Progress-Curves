@@ -1,10 +1,9 @@
 # Error-Estimates-for-MM-Progress-Curves
-The repository contains the core 4 Python scripts used for the numerical simulations of paper:
+The repository contains the core four Python scripts used for the numerical simulations of paper:
 
-"On the estimation errors of K<sup>M<\sup> and V from time-course experiments using the Michaelis–Menten equation"
-Wylie Stroberg, Santiago Schnell 
-Biophysical Chemistry
-Volume 219, December 2016, Pages 17-27
+Wylie Stroberg, Santiago Schnell (2016).
+On the estimation errors of K<sub>M</sub> and V from time-course experiments using the Michaelis–Menten equation
+_Biophysical Chemistry_ **219**, 17-27.
 
 
 * MM_error.py - This script contains all the functions needed for the analysis. There are a number of 
