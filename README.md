@@ -2,7 +2,7 @@
 The repository contains the core four Python scripts used for the numerical simulations of paper:
 
 Wylie Stroberg, Santiago Schnell (2016).
-On the estimation errors of K<sub>M</sub> and V from time-course experiments using the Michaelis–Menten equation
+On the estimation errors of K<sub>M</sub> and V from time-course experiments using the Michaelis–Menten equation.
 _Biophysical Chemistry_ **219**, 17-27.
 
 
